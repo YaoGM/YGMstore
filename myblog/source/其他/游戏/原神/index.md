@@ -6,9 +6,17 @@ banner_img_height: 100
 banner_mask_alpha: 0.3
 
 ---
+<p class="note note-success">2023/6/22<p>
+近期收获
+<img src="/img/原神1/tkzj.jpg" style="margin: 30px;">
+<img src="/img/原神1/wy.jpg" style="margin: 30px;">
+<p class="note note-success">2023/5/24</p>
+烟花来喽（买一送一😍）
+<img src="/img/原神1/宵宫.jpg" style="margin: 30px;">
+
 <p class="note note-success">2023/4/12</p>
 七七你你干嘛啊😅，璃月草神是吧
-<img src="/img/原神1/七七.png" style="margin: 30px;">
+<img src="/img/原神1/77.jpg" style="margin: 30px;">
 
 <p class="note note-success">2023/4/8</p>
 找了三四个小时了，终于岩神瞳over

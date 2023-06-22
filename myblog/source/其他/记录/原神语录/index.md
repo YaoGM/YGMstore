@@ -37,6 +37,38 @@ border-radius: 10%;
 </style>
 
 <div class="wrapper">
+<div class="item aos-init" data-aos="zoom-in-up" data-aos-duration="1000" >                                                                                                                                 <div class="imgygm" style="background: url(/img/原神/妮露.jpg); background-size: cover;">    </div>
+    <div class="yulu">
+       <font face="楷体">
+       <b>天气和心情一样，有时候会变得阴沉沉的，但是不用着急，雨后的天空会更加澄澈</b>
+       </font>
+    </div>
+  </div>
+  
+<div class="item aos-init" data-aos="zoom-in-up" data-aos-duration="1000" >                                                                                                                                 <div class="imgygm" style="background: url(/img/原神/诺艾尔.jpg); background-size: cover;">    </div>
+    <div class="yulu">
+       <font face="楷体">
+       <b>只要你需要我，我随时都会出现在你身边</b>
+       </font>
+    </div>
+  </div>
+  
+<div class="item aos-init" data-aos="zoom-in-up" data-aos-duration="1000" >                                                                                                                                 <div class="imgygm" style="background: url(/img/原神/派蒙.jpg); background-size: cover;">    </div>
+    <div class="yulu">
+       <font face="楷体">
+       <b>不起眼的叶片也在努力成长，保护着脆弱的花，就像我也在保护着旅行者一样</b>
+       </font>
+    </div>
+  </div>
+  
+<div class="item aos-init" data-aos="zoom-in-up" data-aos-duration="1000" >                                                                                                                                 <div class="imgygm" style="background: url(/img/原神/菲谢尔.jpg); background-size: cover;">    </div>
+    <div class="yulu">
+       <font face="楷体">
+       <b>昼夜时空皆为虚像，命运的纽带，却再次将你带到了我的永恒长夜中</b>
+       </font>
+    </div>
+  </div>
+  
 <div class="item aos-init" data-aos="zoom-in-up" data-aos-duration="1000" >                                                                                                                                 <div class="imgygm" style="background: url(/img/原神/神里绫人.jpg); background-size: cover;">    </div>
     <div class="yulu">
        <font face="楷体">
